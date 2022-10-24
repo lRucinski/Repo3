@@ -1,2 +1,3 @@
 tekst podstawowy
 branch2 tekst konfliktowy 2
+Branch F1 tekst konfliktowy
