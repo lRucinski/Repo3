@@ -1,2 +1,3 @@
 oryginal feature text
 modified feature text
+quick fix text on release
