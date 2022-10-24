@@ -1,1 +1,2 @@
 tekst podstawowy
+branch2 tekst konfliktowy 2
