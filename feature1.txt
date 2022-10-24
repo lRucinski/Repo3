@@ -1,1 +1,2 @@
 oryginal feature text
+modified feature text
